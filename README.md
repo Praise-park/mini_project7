@@ -1,2 +1,2 @@
-# mini_project6
-미니프로젝트6
+# mini_project7
+미니프로젝트7
