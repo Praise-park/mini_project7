@@ -19,5 +19,8 @@
 
 * model : bert 모델 사용(hugging face) -> 파인튜닝 후 검증데이터
 
+### 🔗 모델 다운로드
+
+모델 파일은 [여기서 직접 다운로드]([https://drive.google.com/file/d/1AbCdEfGhIjKlMnOpQrStUvWxYz/view?usp=sharing](https://drive.google.com/drive/folders/15ZtV0uTglJj78jKAVsGqyBy18WOxLJzn?usp=sharing))하실 수 있습니다.
       
 
